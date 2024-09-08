@@ -1,4 +1,4 @@
-# locasonar
+# LocaSonar
 LocaSonar  
 
 React,Firebase,
